@@ -9,7 +9,7 @@
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" type="text/javascript"></script>
         <script type="text/javascript" src="script.js"></script>
     </head>
-    <body>
+    <body onload="carregarLivros()">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
