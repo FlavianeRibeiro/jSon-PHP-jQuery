@@ -1,0 +1,8 @@
+//Inserindo dados
+INSERT INTO `livro`(`nome`, `autor`, `valor`, `quantidade`) VALUES ("1984","George Orwell","29,99",10)
+INSERT INTO `livro`(`nome`, `autor`, `valor`, `quantidade`) VALUES ("Muito Longe de Casa","Ishmael Beah","25,99",8)
+INSERT INTO `livro`(`nome`, `autor`, `valor`, `quantidade`) VALUES ("Alice","Lewis Carroll","39,99",10)
+INSERT INTO `livro`(`nome`, `autor`, `valor`, `quantidade`) VALUES ("Bel Canto","Ann Patchett23","19,99",2)
+INSERT INTO `livro`(`nome`, `autor`, `valor`, `quantidade`) VALUES ("Amada","Toni Morrison","29,99",6)
+INSERT INTO `livro`(`nome`, `autor`, `valor`, `quantidade`) VALUES ("Duna","Frank Herbert","25,30",12)
+INSERT INTO `livro`(`nome`, `autor`, `valor`, `quantidade`) VALUES ("Garota Exemplar","Gillian Flynn","49,99",9)
